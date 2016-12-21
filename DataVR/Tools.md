@@ -19,5 +19,5 @@ Learn more at: [simmetri.com](http://simmetri.com)
 * https://aframe.io/
 
 ## ReactVR
-* https://facebookincubator.github.io/react-vr/index.html
+* https://github.com/facebookincubator/react-vr
 * https://facebookincubator.github.io/react-vr/index.html
